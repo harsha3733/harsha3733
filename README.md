@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey 👋 I'm Harsha Kalluri  
 
-<!--
-**harsha3733/harsha3733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Engineer | MERN Stack Developer | Azure Certified  
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🎓 Computer Science Undergraduate (CGPA: 8.87)  
+- ☁ Microsoft Azure AZ-900 Certified  
+- 💻 1600+ LeetCode | 1400+ CodeChef  
+- 🔥 Passionate about building scalable backend systems  
+- 📈 Focused on APIs, cloud-native systems, and performance-driven applications  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Arsenal
+
+### 💻 Core Programming
+`Python` `C++` `C` `SQL`
+### 🌐 Backend Development
+`FastAPI` `Node.js` `Express.js`  
+`MongoDB` `PostgreSQL (Neon)`  
+`REST APIs` `Async Architecture`
+### ⚛ Frontend
+`React.js` `JavaScript` `HTML` `CSS`
+### ☁ Cloud & Dev Tools
+`Microsoft Azure (AZ-900)`  
+`Git & GitHub`  
+`Docker (Basics)`  
+
+## 📊 Competitive Coding
+- 🔹 LeetCode: https://leetcode.com/harsha3733  
+- 🔹 CodeChef: https://www.codechef.com/users/harshakalluri698  
+
+## 📫 Let's Connect
+- 📧 harshakalluri698@gmail.com  
+- 💼 https://www.linkedin.com/in/harsha-kalluri698/
+
+> “Building reliable systems, writing clean code, and continuously leveling up.”
